@@ -1,5 +1,5 @@
 # eBay API Integration
-This project is a Windows Forms application that integrates with the eBay API to search for items based on user input and display the results. It uses the eBayAPIIntegration library for making API requests and handling the response.
+This project is a Windows Forms application that integrates with the eBay API to search for items based on user input and display the results.
 
 ## Getting Started
 To run the application and use the eBay API integration, follow these steps:
