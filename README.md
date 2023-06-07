@@ -43,7 +43,12 @@ The application will fetch the search results from the eBay API and display them
 Note: The application currently supports a maximum limit of 200 items per search due to API limitations.
 
 ## Additional Resources
+
 For more information about the eBay API and available search filters, refer to the eBay Developer documentation:
+
+- [eBay API Documentation](https://developer.ebay.com/api-docs/)
+- [eBay Browse API - Search Filters](https://developer.ebay.com/api-docs/buy/static/ref-buy-browse-filters.html)
+
 
 ## eBay API Documentation
 eBay Browse API - Search Filters
